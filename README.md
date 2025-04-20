@@ -34,6 +34,7 @@ step 07: Create container by below command:
         
 
 The container is accessed by “host-ip-address:8080”
+
 Where port 8080 denotes the port number of your local host which is
 accessing the port 80 of the container.
 
